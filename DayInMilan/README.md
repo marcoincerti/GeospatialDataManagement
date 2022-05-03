@@ -31,3 +31,4 @@ Finally, I set threshold values to see if:
 * I was using the meter 
 * I was using the train
 
+See Days in Milan.pdf for the final result.
