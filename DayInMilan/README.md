@@ -30,6 +30,6 @@ Finally, I set threshold values to see if:
 * I was walking
 * I was using the meter 
 * I was using the train
-* 
+
 ![alt text](https://github.com/marcoincerti/GeospatialDataManagement/blob/main/DayInMilan/WayPoints.png?raw=true)
 ![alt text](https://github.com/marcoincerti/GeospatialDataManagement/blob/main/DayInMilan/Days%20in%20Milan_page.jpg?raw=true)
